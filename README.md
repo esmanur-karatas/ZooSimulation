@@ -17,8 +17,8 @@ Bu proje, kalıtımın kullanımını örneklemek ve farklı hayvan türlerinin 
 
 Proje, her bir hayvan türü için özelleştirilmiş sınıflar sağlar. Her bir sınıfın içinde `SesCikar` adlı bir metod bulunur. Bu metod, ilgili hayvanın ses çıkarma davranışını simüle eder. Kullanıcılar, istedikleri kadar hayvanın özelliklerini ve ses çıkarma davranışlarını belirleyebilirler.
 
-Katkıda Bulunma
+## Katkıda Bulunma
 Bu projeyi fork edin.
 Yeni özellikler ekleyin veya hataları düzeltin.
 Değişikliklerinizi bir pull isteği ile gönderin.
-<img width="301" alt="image" src="https://github.com/esmanur-karatas/ZooSimulation/assets/83882274/4f72b8ce-b43c-456b-89bd-936d2f1c1bc2">
+
