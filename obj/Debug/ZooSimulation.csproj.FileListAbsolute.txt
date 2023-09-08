@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\C#\uygulamasolution\ZooSimulation\bin\Debug\ZooSimulation.exe.config
+C:\Users\DELL\Desktop\C#\uygulamasolution\ZooSimulation\bin\Debug\ZooSimulation.exe
+C:\Users\DELL\Desktop\C#\uygulamasolution\ZooSimulation\bin\Debug\ZooSimulation.pdb
+C:\Users\DELL\Desktop\C#\uygulamasolution\ZooSimulation\obj\Debug\ZooSimulation.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C#\uygulamasolution\ZooSimulation\obj\Debug\ZooSimulation.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\uygulamasolution\ZooSimulation\obj\Debug\ZooSimulation.exe
+C:\Users\DELL\Desktop\C#\uygulamasolution\ZooSimulation\obj\Debug\ZooSimulation.pdb
